@@ -1,2 +1,2 @@
 Hola mundo
-Bienvenidos al curso de laravel
+Bienvenidos al curso de laravel 5
